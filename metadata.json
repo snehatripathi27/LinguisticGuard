@@ -1,0 +1,6 @@
+{
+  "name": "LinguaGuard - Multilingual LLM Localization & Linguistic Evaluation Platform",
+  "description": "Production-grade multilingual LLM localization, translation quality, linguistic analysis, and cultural context evaluation platform for English, Hindi, and Hinglish.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

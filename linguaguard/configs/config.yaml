@@ -1,0 +1,25 @@
+app:
+  name: "LinguaGuard"
+  version: "1.0.0"
+  supported_languages:
+    - en
+    - hi
+    - hinglish
+  default_target: "hi"
+
+models:
+  primary: "gemini-3.8-flash"
+  fallback: "deterministic-nlp-engine"
+
+rubrics:
+  cultural_dimensions_count: 15
+  min_acceptable_quality_score: 7.5
+  weights:
+    linguistic: 0.25
+    cultural: 0.30
+    semantic: 0.25
+    llm_judge: 0.20
+
+dataset:
+  path: "linguaguard/datasets/dataset.json"
+  min_items: 100

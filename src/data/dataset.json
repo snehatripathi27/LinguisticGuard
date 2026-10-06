@@ -1,0 +1,1052 @@
+[
+  {
+    "id": "LG-001",
+    "source_language": "en",
+    "target_language": "hi",
+    "source_text": "Please make sure to submit the quarterly financial report by Friday afternoon.",
+    "reference": "कृपया शुक्रवार दोपहर तक त्रैमासिक वित्तीय रिपोर्ट जमा करना सुनिश्चित करें।",
+    "category": "professional communication",
+    "difficulty": "medium",
+    "cultural_context": "Formal corporate communication requiring polite imperative (कृपया/करें) rather than informal command."
+  },
+  {
+    "id": "LG-002",
+    "source_language": "en",
+    "target_language": "hi",
+    "source_text": "The company raised 15 million dollars in its Series B round.",
+    "reference": "कंपनी ने अपने सीरीज बी राउंड में लगभग 125 करोड़ रुपये (15 मिलियन डॉलर) जुटाए।",
+    "category": "business",
+    "difficulty": "hard",
+    "cultural_context": "Localization of currency and numbering scale: converting millions/dollars to crores/rupees for Indian business audience."
+  },
+  {
+    "id": "LG-003",
+    "source_language": "en",
+    "target_language": "hi",
+    "source_text": "Don't beat around the bush; just tell me what happened.",
+    "reference": "इधर-उधर की बातें मत करो, सीधे बताओ क्या हुआ।",
+    "category": "idioms",
+    "difficulty": "hard",
+    "cultural_context": "Idiomatic adaptation of 'beat around the bush' to 'इधर-उधर की बातें करना' instead of literal shrub beating."
+  },
+  {
+    "id": "LG-004",
+    "source_language": "en",
+    "target_language": "hinglish",
+    "source_text": "Are you coming to the office tomorrow or working from home?",
+    "reference": "Kal office aa rahe ho ya work from home karoge?",
+    "category": "everyday conversation",
+    "difficulty": "easy",
+    "cultural_context": "Natural urban workplace Hinglish code-switching blending Hindi syntax with common English professional nouns."
+  },
+  {
+    "id": "LG-005",
+    "source_language": "en",
+    "target_language": "hi",
+    "source_text": "Grandmother is resting in her room; please do not make noise.",
+    "reference": "दादी जी अपने कमरे में आराम कर रही हैं, कृपया शोर न करें।",
+    "category": "everyday conversation",
+    "difficulty": "medium",
+    "cultural_context": "Honorific suffix 'जी' (दादी जी) and plural verb agreement (कर रही हैं) denoting respect for elders in Indian households."
+  },
+  {
+    "id": "LG-006",
+    "source_language": "en",
+    "target_language": "hinglish",
+    "source_text": "Bro, chill out, we will easily find a quick fix for this issue.",
+    "reference": "Bhai chill kar, is issue ka koi na koi jugaad nikal lenge.",
+    "category": "social media",
+    "difficulty": "medium",
+    "cultural_context": "Colloquial term 'jugaad' (ingenious makeshift solution) and friendly address 'Bhai' typical of modern Indian youth."
+  },
+  {
+    "id": "LG-007",
+    "source_language": "en",
+    "target_language": "hi",
+    "source_text": "We apologize for the delay. Your refund of 500 rupees has been initiated.",
+    "reference": "देरी के लिए हम क्षमा चाहते हैं। आपके 500 रुपये का रिफंड शुरू कर दिया गया है।",
+    "category": "customer support",
+    "difficulty": "easy",
+    "cultural_context": "Formal customer support apology using respectful vocabulary (क्षमा चाहते हैं)."
+  },
+  {
+    "id": "LG-008",
+    "source_language": "en",
+    "target_language": "hi",
+    "source_text": "A bird in hand is worth two in the bush.",
+    "reference": "नौ नकद न तेरह उधार।",
+    "category": "idioms",
+    "difficulty": "hard",
+    "cultural_context": "Proverbial equivalence: English bird-in-hand corresponds to the classical Hindi idiom 'नौ नकद न तेरह उधार'."
+  },
+  {
+    "id": "LG-009",
+    "source_language": "en",
+    "target_language": "hi",
+    "source_text": "Wishing you and your family a very happy and prosperous Diwali!",
+    "reference": "आपको और आपके परिवार को दीपावली की हार्दिक एवं सुखद शुभकामनाएं!",
+    "category": "festivals",
+    "difficulty": "easy",
+    "cultural_context": "Festive greetings requiring auspicious high-register vocabulary (हार्दिक शुभकामनाएं) for Deepawali."
+  },
+  {
+    "id": "LG-010",
+    "source_language": "hi",
+    "target_language": "en",
+    "source_text": "आप चिंता मत कीजिए, मैं चाय-पानी का इंतजाम देखता हूँ।",
+    "reference": "Don't worry, I will arrange for the refreshments and hospitality.",
+    "category": "food",
+    "difficulty": "medium",
+    "cultural_context": "'चाय-पानी' encompasses tea, snacks, and customary hospitality, not literally just tea and plain water."
+  },
+  {
+    "id": "LG-011",
+    "source_language": "en",
+    "target_language": "hinglish",
+    "source_text": "Let's grab some roadside snacks after college.",
+    "reference": "College ke baad chal na, tapri pe chai aur street food khate hain.",
+    "category": "food",
+    "difficulty": "medium",
+    "cultural_context": "'Tapri' is the quintessential Indian roadside tea kiosk culture."
+  },
+  {
+    "id": "LG-012",
+    "source_language": "en",
+    "target_language": "hi",
+    "source_text": "The patient has mild fever and body ache; please consult a physician immediately.",
+    "reference": "मरीज को हल्का बुखार और बदन दर्द है; कृपया तुरंत चिकित्सक से परामर्श लें।",
+    "category": "healthcare",
+    "difficulty": "medium",
+    "cultural_context": "Clinical clarity requiring unambiguous formal medical terms (चिकित्सक से परामर्श लें)."
+  },
+  {
+    "id": "LG-013",
+    "source_language": "en",
+    "target_language": "hi",
+    "source_text": "It is raining cats and dogs outside, take an umbrella.",
+    "reference": "बाहर मूसलाधार बारिश हो रही है, छाता साथ ले लो।",
+    "category": "idioms",
+    "difficulty": "hard",
+    "cultural_context": "Idiom translation: 'मूसलाधार बारिश' (torrential rain) instead of literal cats and dogs."
+  },
+  {
+    "id": "LG-014",
+    "source_language": "en",
+    "target_language": "hinglish",
+    "source_text": "I pushed the code to the main branch, please review the PR.",
+    "reference": "Maine code main branch pe push kar diya hai, please PR review kar lo.",
+    "category": "technology",
+    "difficulty": "easy",
+    "cultural_context": "Tech industry Hinglish: git terminology kept in English with Hindi auxiliary verbs (kar diya hai)."
+  },
+  {
+    "id": "LG-015",
+    "source_language": "en",
+    "target_language": "hi",
+    "source_text": "Respectful greetings to the honorable Chief Guest on this auspicious occasion.",
+    "reference": "इस पावन अवसर पर माननीय मुख्य अतिथि का सादर अभिनंदन।",
+    "category": "formal communication",
+    "difficulty": "hard",
+    "cultural_context": "High-register Sanskritized Hindi (पावन अवसर, माननीय मुख्य अतिथि, सादर अभिनंदन) for ceremonial protocol."
+  },
+  {
+    "id": "LG-016",
+    "source_language": "hi",
+    "target_language": "en",
+    "source_text": "यह तो ऊंट के मुंह में जीरा के समान है।",
+    "reference": "This is merely a drop in the ocean.",
+    "category": "idioms",
+    "difficulty": "hard",
+    "cultural_context": "Proverbial mapping: 'ऊंट के मुंह में जीरा' (cumin seed in camel's mouth) maps to 'a drop in the ocean'."
+  },
+  {
+    "id": "LG-017",
+    "source_language": "en",
+    "target_language": "hi",
+    "source_text": "The price of the apartment is 2.5 crore rupees.",
+    "reference": "इस फ्लैट की कीमत ढाई करोड़ (2.5 करोड़) रुपये है।",
+    "category": "business",
+    "difficulty": "medium",
+    "cultural_context": "Use of Indian numbering scale (Crores) and fractional terms like ढाई (2.5)."
+  },
+  {
+    "id": "LG-018",
+    "source_language": "en",
+    "target_language": "hinglish",
+    "source_text": "Why are you taking so much stress? Everything will be sorted.",
+    "reference": "Itna tension kyun le raha hai? Sab theek ho jayega yaar.",
+    "category": "everyday conversation",
+    "difficulty": "easy",
+    "cultural_context": "'Tension lena' is the ubiquitous Indian English/Hinglish idiom for worrying."
+  },
+  {
+    "id": "LG-019",
+    "source_language": "en",
+    "target_language": "hi",
+    "source_text": "The teacher explained the concept with practical real-world examples.",
+    "reference": "अध्यापिका ने व्यावहारिक और वास्तविक उदाहरणों के साथ अवधारणा स्पष्ट की।",
+    "category": "education",
+    "difficulty": "medium",
+    "cultural_context": "Pedagogical discourse maintaining formal academic register."
+  },
+  {
+    "id": "LG-020",
+    "source_language": "en",
+    "target_language": "hinglish",
+    "source_text": "The movie was so boring that I fell asleep before the interval.",
+    "reference": "Movie itni boring thi ki main interval se pehle hi so gaya.",
+    "category": "entertainment",
+    "difficulty": "easy",
+    "cultural_context": "Cinema culture references 'interval' (customary in Indian theatres) and conversational code-mixing."
+  },
+  {
+    "id": "LG-021",
+    "source_language": "en",
+    "target_language": "hi",
+    "source_text": "To kill two birds with one stone.",
+    "reference": "एक तीर से दो शिकार करना।",
+    "category": "idioms",
+    "difficulty": "medium",
+    "cultural_context": "Equivalent idiom: 'एक पंथ दो काज' or 'एक तीर से दो शिकार'."
+  },
+  {
+    "id": "LG-022",
+    "source_language": "hi",
+    "target_language": "en",
+    "source_text": "वह बहुत हवाबाज़ी करता है, असल में कुछ नहीं जानता।",
+    "reference": "He bluffs and shows off a lot, but in reality he knows nothing.",
+    "category": "slang",
+    "difficulty": "hard",
+    "cultural_context": "'हवाबाज़ी' is Northern Indian colloquialism for boastful posturing or bluffing."
+  },
+  {
+    "id": "LG-023",
+    "source_language": "en",
+    "target_language": "hi",
+    "source_text": "Please confirm your delivery address: Flat 402, Shanti Apartments, MG Road, Bengaluru.",
+    "reference": "कृपया अपने डिलीवरी पते की पुष्टि करें: फ्लैट 402, शांति अपार्टमेंट्स, एमजी रोड, बेंगलुरु।",
+    "category": "customer support",
+    "difficulty": "easy",
+    "cultural_context": "Transliteration of Indian address entities while translating functional text."
+  },
+  {
+    "id": "LG-024",
+    "source_language": "en",
+    "target_language": "hinglish",
+    "source_text": "Order a pizza, everyone is hungry here.",
+    "reference": "Yaar pizza order kar de, sabko bahut bhookh lagi hai yahan.",
+    "category": "food",
+    "difficulty": "easy",
+    "cultural_context": "Natural blend of English noun 'pizza' with Hindi grammar and conversational particle 'Yaar'."
+  },
+  {
+    "id": "LG-025",
+    "source_language": "en",
+    "target_language": "hi",
+    "source_text": "She took a leave of absence to celebrate Raksha Bandhan with her brother.",
+    "reference": "उसने अपने भाई के साथ रक्षाबंधन मनाने के लिए छुट्टी ली।",
+    "category": "festivals",
+    "difficulty": "medium",
+    "cultural_context": "Cultural holiday context of sibling bond celebrated across India."
+  },
+  {
+    "id": "LG-026",
+    "source_language": "en",
+    "target_language": "hi",
+    "source_text": "The distance between the two villages is approximately 15 kilometers.",
+    "reference": "दोनों गांवों के बीच की दूरी लगभग 15 किलोमीटर है।",
+    "category": "travel",
+    "difficulty": "easy",
+    "cultural_context": "Metric unit localization (किलोमीटर)."
+  },
+  {
+    "id": "LG-027",
+    "source_language": "en",
+    "target_language": "hinglish",
+    "source_text": "Can you send the presentation deck before the client call?",
+    "reference": "Client call se pehle presentation deck bhej sakte ho kya?",
+    "category": "professional communication",
+    "difficulty": "easy",
+    "cultural_context": "Indian corporate Hinglish question structure ending with 'kya'."
+  },
+  {
+    "id": "LG-028",
+    "source_language": "en",
+    "target_language": "hi",
+    "source_text": "Better late than never.",
+    "reference": "देर आए दुरुस्त आए।",
+    "category": "idioms",
+    "difficulty": "medium",
+    "cultural_context": "Common Urdu-Hindi idiom pairing 'देर आए दुरुस्त आए'."
+  },
+  {
+    "id": "LG-029",
+    "source_language": "hi",
+    "target_language": "en",
+    "source_text": "बड़ों के पैर छूकर आशीर्वाद लेना हमारी परंपरा है।",
+    "reference": "Seeking blessings by touching the feet of elders is part of our tradition.",
+    "category": "cultural references",
+    "difficulty": "hard",
+    "cultural_context": "'चरण स्पर्श' / 'पैर छूना' is a fundamental Indian gesture of reverence requiring culturally descriptive translation."
+  },
+  {
+    "id": "LG-030",
+    "source_language": "en",
+    "target_language": "hinglish",
+    "source_text": "The traffic near the Silk Board junction is completely jammed today.",
+    "reference": "Aaj Silk Board junction ke paas traffic poora jam hai.",
+    "category": "travel",
+    "difficulty": "easy",
+    "cultural_context": "Local landmark reference with common urban commute vocabulary."
+  },
+  {
+    "id": "LG-031",
+    "source_language": "en",
+    "target_language": "hi",
+    "source_text": "Please keep your seat belts fastened until the aircraft comes to a complete halt.",
+    "reference": "विमान के पूरी तरह रुकने तक कृपया अपनी सीट बेल्ट बांधे रखें।",
+    "category": "travel",
+    "difficulty": "medium",
+    "cultural_context": "Standard aviation safety announcement in standardized Hindi."
+  },
+  {
+    "id": "LG-032",
+    "source_language": "en",
+    "target_language": "hi",
+    "source_text": "The farmer harvested 50 quintals of wheat from his fields.",
+    "reference": "किसान ने अपने खेतों से 50 क्विंटल गेहूं की फसल काटी।",
+    "category": "agriculture",
+    "difficulty": "medium",
+    "cultural_context": "Traditional agricultural measurement (क्विंटल = 100 kg) widely used across Indian farming."
+  },
+  {
+    "id": "LG-033",
+    "source_language": "en",
+    "target_language": "hinglish",
+    "source_text": "I will ping you on WhatsApp once I reach home.",
+    "reference": "Ghar pahunch kar WhatsApp pe ping karta hoon.",
+    "category": "social media",
+    "difficulty": "easy",
+    "cultural_context": "Modern daily communication Hinglish with WhatsApp as ubiquitous messaging platform."
+  },
+  {
+    "id": "LG-034",
+    "source_language": "hi",
+    "target_language": "en",
+    "source_text": "उसकी बातों में मत आना, वह मीठी छुरी है।",
+    "reference": "Don't fall for his words; he is a wolf in sheep's clothing.",
+    "category": "idioms",
+    "difficulty": "hard",
+    "cultural_context": "'मीठी छुरी' (sweet knife) signifies a hypocritical, deceptively polite traitor."
+  },
+  {
+    "id": "LG-035",
+    "source_language": "en",
+    "target_language": "hi",
+    "source_text": "The software update will fix critical security bugs.",
+    "reference": "यह सॉफ़्टवेयर अपडेट महत्वपूर्ण सुरक्षा खामियों को ठीक करेगा।",
+    "category": "technology",
+    "difficulty": "medium",
+    "cultural_context": "Technical software translation with accurate vocabulary (खामियों = vulnerabilities/bugs)."
+  },
+  {
+    "id": "LG-036",
+    "source_language": "en",
+    "target_language": "hinglish",
+    "source_text": "Let's plan a Goa trip for the long weekend.",
+    "reference": "Long weekend ke liye Goa trip plan karte hain yaar.",
+    "category": "travel",
+    "difficulty": "easy",
+    "cultural_context": "Iconic Indian millennial long weekend trope (Goa trip)."
+  },
+  {
+    "id": "LG-037",
+    "source_language": "en",
+    "target_language": "hi",
+    "source_text": "Where there is a will, there is a way.",
+    "reference": "जहाँ चाह, वहाँ राह।",
+    "category": "idioms",
+    "difficulty": "medium",
+    "cultural_context": "Classic proverb parity: 'जहाँ चाह, वहाँ राह'."
+  },
+  {
+    "id": "LG-038",
+    "source_language": "en",
+    "target_language": "hi",
+    "source_text": "Uncle and Aunt have arrived from Lucknow for the wedding ceremony.",
+    "reference": "चाचा जी और चाची जी शादी समारोह के लिए लखनऊ से आ चुके हैं।",
+    "category": "everyday conversation",
+    "difficulty": "medium",
+    "cultural_context": "Kinship specificity in Indian languages (paternal uncle = चाचा vs maternal = मामा)."
+  },
+  {
+    "id": "LG-039",
+    "source_language": "hi",
+    "target_language": "en",
+    "source_text": "दाल में कुछ काला लग रहा है।",
+    "reference": "Something seems fishy here.",
+    "category": "idioms",
+    "difficulty": "medium",
+    "cultural_context": "Hindi culinary idiom 'दाल में कुछ काला' matches English 'something smells fishy'."
+  },
+  {
+    "id": "LG-040",
+    "source_language": "en",
+    "target_language": "hinglish",
+    "source_text": "The interviewer asked some very tricky questions about system design.",
+    "reference": "Interviewer ne system design pe kaafi tricky questions pooche the.",
+    "category": "technology",
+    "difficulty": "medium",
+    "cultural_context": "Tech interview conversation in bilingual tech worker community."
+  },
+  {
+    "id": "LG-041",
+    "source_language": "en",
+    "target_language": "hi",
+    "source_text": "Government of India has launched a new scholarship scheme for students.",
+    "reference": "भारत सरकार ने विद्यार्थियों के लिए एक नई छात्रवृत्ति योजना शुरू की है।",
+    "category": "education",
+    "difficulty": "medium",
+    "cultural_context": "Official state governance register (भारत सरकार, छात्रवृत्ति योजना)."
+  },
+  {
+    "id": "LG-042",
+    "source_language": "en",
+    "target_language": "hi",
+    "source_text": "Barking dogs seldom bite.",
+    "reference": "जो गरजते हैं, वो बरसते नहीं।",
+    "category": "idioms",
+    "difficulty": "medium",
+    "cultural_context": "Monsoon/cloud metaphor in Hindi replacing canine metaphor in English."
+  },
+  {
+    "id": "LG-043",
+    "source_language": "hi",
+    "target_language": "en",
+    "source_text": "वह हमेशा अपनी ढपली अपना राग अलापता रहता है।",
+    "reference": "He always blows his own trumpet and marches to his own tune.",
+    "category": "idioms",
+    "difficulty": "hard",
+    "cultural_context": "'अपनी ढपली अपना राग' (own tambourine, own tune) signifies stubborn individualism or self-absorption."
+  },
+  {
+    "id": "LG-044",
+    "source_language": "en",
+    "target_language": "hinglish",
+    "source_text": "Don't overthink it, just take the decision.",
+    "reference": "Zyada overthink mat kar, seedha decision le le.",
+    "category": "everyday conversation",
+    "difficulty": "easy",
+    "cultural_context": "Casual youth dialogue incorporating English cognitive verbs with Hindi imperatives."
+  },
+  {
+    "id": "LG-045",
+    "source_language": "en",
+    "target_language": "hi",
+    "source_text": "Our store will remain closed on 15th August on the occasion of Independence Day.",
+    "reference": "स्वतंत्रता दिवस के अवसर पर 15 अगस्त को हमारा प्रतिष्ठान बंद रहेगा।",
+    "category": "business",
+    "difficulty": "easy",
+    "cultural_context": "National holiday announcement using formal retail term (प्रतिष्ठान/दुकान)."
+  },
+  {
+    "id": "LG-046",
+    "source_language": "en",
+    "target_language": "hi",
+    "source_text": "Please accept our heartfelt condolences on your tragic loss.",
+    "reference": "इस अपूरणीय क्षति पर हमारी हार्दिक संवेदनाएं स्वीकार करें।",
+    "category": "formal communication",
+    "difficulty": "hard",
+    "cultural_context": "Condolence etiquette requiring somber respectful phrasing (अपूरणीय क्षति, हार्दिक संवेदनाएं)."
+  },
+  {
+    "id": "LG-047",
+    "source_language": "en",
+    "target_language": "hinglish",
+    "source_text": "Did you check the budget? We cannot exceed 50k.",
+    "reference": "Budget check kiya kya? 50k se zyada exceed nahi kar sakte.",
+    "category": "business",
+    "difficulty": "easy",
+    "cultural_context": "Everyday financial discussion in urban India."
+  },
+  {
+    "id": "LG-048",
+    "source_language": "hi",
+    "target_language": "en",
+    "source_text": "चलो, अब गंगा नहाए! प्रोजेक्ट पूरा हो गया।",
+    "reference": "What a relief, now we can breathe easy! The project is finally complete.",
+    "category": "cultural references",
+    "difficulty": "hard",
+    "cultural_context": "'गंगा नहाना' (bathing in the sacred Ganges) metaphorically denotes a massive sigh of relief after fulfilling an arduous duty."
+  },
+  {
+    "id": "LG-049",
+    "source_language": "en",
+    "target_language": "hi",
+    "source_text": "The patient must take one tablet twice daily after meals.",
+    "reference": "मरीज़ को भोजन के बाद दिन में दो बार एक गोली लेनी चाहिए।",
+    "category": "healthcare",
+    "difficulty": "easy",
+    "cultural_context": "Medical prescription instructions needing unambiguous dosage guidance."
+  },
+  {
+    "id": "LG-050",
+    "source_language": "en",
+    "target_language": "hinglish",
+    "source_text": "That stand-up comedian was hilarious, my stomach started hurting from laughing.",
+    "reference": "Woh stand-up comedian itna funny tha ki hans-hans ke pet dard ho gaya.",
+    "category": "humor",
+    "difficulty": "medium",
+    "cultural_context": "Indian stand-up comedy culture reaction using typical idiom 'hans-hans ke pet dard hona'."
+  },
+  {
+    "id": "LG-051",
+    "source_language": "en",
+    "target_language": "hi",
+    "source_text": "Actions speak louder than words.",
+    "reference": "बातों से ज्यादा काम बोलते हैं।",
+    "category": "idioms",
+    "difficulty": "medium",
+    "cultural_context": "Universal proverb with natural Hindi phrasing ('कथनी से करनी भली')."
+  },
+  {
+    "id": "LG-052",
+    "source_language": "hi",
+    "target_language": "en",
+    "source_text": "सावन के अंधे को हरा ही हरा नजर आता है।",
+    "reference": "One who has only seen good times assumes everything is always rosy.",
+    "category": "idioms",
+    "difficulty": "hard",
+    "cultural_context": "Agricultural monsoon proverb reflecting narrow perception born of sheltered prosperity."
+  },
+  {
+    "id": "LG-053",
+    "source_language": "en",
+    "target_language": "hi",
+    "source_text": "The bank balance shows an opening balance of 2,50,000 rupees.",
+    "reference": "बैंक खाते में प्रारंभिक शेष राशि 2,50,000 (दो लाख पचास हजार) रुपये है।",
+    "category": "business",
+    "difficulty": "medium",
+    "cultural_context": "Indian comma grouping (2,50,000) and banking terminology (प्रारंभिक शेष राशि)."
+  },
+  {
+    "id": "LG-054",
+    "source_language": "en",
+    "target_language": "hinglish",
+    "source_text": "I will book an Uber right away so we don't get late for the movie.",
+    "reference": "Main abhi Uber book karta hoon taaki movie ke liye late na ho jayein.",
+    "category": "travel",
+    "difficulty": "easy",
+    "cultural_context": "Ride-hailing vocabulary embedded in conversational Hindi syntax."
+  },
+  {
+    "id": "LG-055",
+    "source_language": "en",
+    "target_language": "hi",
+    "source_text": "He bought 10 tolas of gold for his daughter's wedding.",
+    "reference": "उन्होंने अपनी बेटी के विवाह के लिए 10 तोले सोना खरीदा।",
+    "category": "cultural references",
+    "difficulty": "hard",
+    "cultural_context": "'Tola' (10 grams) is traditional gold weight measurement essential in Indian wedding contexts."
+  },
+  {
+    "id": "LG-056",
+    "source_language": "en",
+    "target_language": "hi",
+    "source_text": "Honesty is the best policy.",
+    "reference": "ईमानदारी सर्वोत्तम नीति है।",
+    "category": "education",
+    "difficulty": "easy",
+    "cultural_context": "Standard moral maxim translation widely used in school curricula."
+  },
+  {
+    "id": "LG-057",
+    "source_language": "hi",
+    "target_language": "en",
+    "source_text": "अरे भाई, जरा नमक इधर खिसकाना।",
+    "reference": "Hey brother, could you please pass the salt?",
+    "category": "everyday conversation",
+    "difficulty": "easy",
+    "cultural_context": "Colloquial dining table request using familiar particle 'अरे भाई' and softening adverb 'जरा'."
+  },
+  {
+    "id": "LG-058",
+    "source_language": "en",
+    "target_language": "hinglish",
+    "source_text": "My phone battery died in the middle of the Zoom meeting.",
+    "reference": "Zoom meeting ke beech mein hi mere phone ki battery die ho gayi.",
+    "category": "technology",
+    "difficulty": "easy",
+    "cultural_context": "Modern remote work reality phrased in natural Hinglish."
+  },
+  {
+    "id": "LG-059",
+    "source_language": "en",
+    "target_language": "hi",
+    "source_text": "All passengers travelling on train 12951 are requested to proceed to platform number 3.",
+    "reference": "गाड़ी संख्या 12951 से यात्रा करने वाले सभी यात्रियों से निवेदन है कि वे प्लेटफार्म नंबर 3 पर पहुंचे।",
+    "category": "travel",
+    "difficulty": "medium",
+    "cultural_context": "Indian Railways public address system register (गाड़ी संख्या, यात्रियों से निवेदन है)."
+  },
+  {
+    "id": "LG-060",
+    "source_language": "en",
+    "target_language": "hi",
+    "source_text": "To add fuel to the fire.",
+    "reference": "आग में घी डालना।",
+    "category": "idioms",
+    "difficulty": "medium",
+    "cultural_context": "Sacrificial ritual fire metaphor in Hindi ('घी डालना') vs English fuel/petrol."
+  },
+  {
+    "id": "LG-061",
+    "source_language": "hi",
+    "target_language": "en",
+    "source_text": "शादी में पूरा मोहल्ला उमड़ पड़ा था।",
+    "reference": "The entire neighborhood turned up for the wedding.",
+    "category": "cultural references",
+    "difficulty": "medium",
+    "cultural_context": "'मोहल्ला' reflects tight-knit community living in traditional Indian towns."
+  },
+  {
+    "id": "LG-062",
+    "source_language": "en",
+    "target_language": "hinglish",
+    "source_text": "I am craving some spicy momos right now.",
+    "reference": "Yaar abhi bohot teekhe momos khane ka mann kar raha hai.",
+    "category": "food",
+    "difficulty": "easy",
+    "cultural_context": "Craving expression 'mann kar raha hai' with popular North Indian street food 'momos'."
+  },
+  {
+    "id": "LG-063",
+    "source_language": "en",
+    "target_language": "hi",
+    "source_text": "The Prime Minister addressed the nation on the eve of Republic Day.",
+    "reference": "प्रधानमंत्री ने गणतंत्र दिवस की पूर्व संध्या पर राष्ट्र को संबोधित किया।",
+    "category": "formal communication",
+    "difficulty": "hard",
+    "cultural_context": "State diplomatic protocol (गणतंत्र दिवस की पूर्व संध्या, राष्ट्र को संबोधित किया)."
+  },
+  {
+    "id": "LG-064",
+    "source_language": "en",
+    "target_language": "hi",
+    "source_text": "Do not bite the hand that feeds you.",
+    "reference": "जिस थाली में खाना, उसी में छेद नहीं करते।",
+    "category": "idioms",
+    "difficulty": "hard",
+    "cultural_context": "Proverbial equivalence: 'जिस थाली में खाना उसी में छेद करना' is the exact Indian cultural idiom."
+  },
+  {
+    "id": "LG-065",
+    "source_language": "hi",
+    "target_language": "en",
+    "source_text": "अरे यार, तू तो ईद का चाँद हो गया है!",
+    "reference": "Hey buddy, you have become as rare as a blue moon!",
+    "category": "idioms",
+    "difficulty": "hard",
+    "cultural_context": "'ईद का चाँद' (crescent moon of Eid) signifies seeing someone very rarely, matching English 'once in a blue moon'."
+  },
+  {
+    "id": "LG-066",
+    "source_language": "en",
+    "target_language": "hinglish",
+    "source_text": "Can we reschedule the sync to 4 PM? I have a back-to-back demo.",
+    "reference": "Sync ko 4 PM reschedule kar sakte hain? Meri back-to-back demo hai.",
+    "category": "professional communication",
+    "difficulty": "medium",
+    "cultural_context": "Corporate calendar sync Hinglish."
+  },
+  {
+    "id": "LG-067",
+    "source_language": "en",
+    "target_language": "hi",
+    "source_text": "The price of petrol has increased by two rupees per liter.",
+    "reference": "पेट्रोल की कीमत में दो रुपये प्रति लीटर की वृद्धि हुई है।",
+    "category": "business",
+    "difficulty": "easy",
+    "cultural_context": "Economic news reporting style."
+  },
+  {
+    "id": "LG-068",
+    "source_language": "en",
+    "target_language": "hi",
+    "source_text": "Cleanliness is next to godliness.",
+    "reference": "स्वच्छता में ही ईश्वर का वास होता है।",
+    "category": "education",
+    "difficulty": "medium",
+    "cultural_context": "Moral axiom localization rooted in Swachh Bharat and traditional cultural ethics."
+  },
+  {
+    "id": "LG-069",
+    "source_language": "hi",
+    "target_language": "en",
+    "source_text": "वह बात का बतंगड़ बनाने में माहिर है।",
+    "reference": "She is an expert at making a mountain out of a molehill.",
+    "category": "idioms",
+    "difficulty": "hard",
+    "cultural_context": "'बात का बतंगड़ बनाना' directly parallels 'making a mountain out of a molehill'."
+  },
+  {
+    "id": "LG-070",
+    "source_language": "en",
+    "target_language": "hinglish",
+    "source_text": "Bro, that reel went viral overnight with over 1 million views.",
+    "reference": "Bhai woh reel overnight viral ho gayi, 10 lakh se zyada views aa gaye.",
+    "category": "social media",
+    "difficulty": "medium",
+    "cultural_context": "Creator economy Hinglish converting 1 million into 10 lakh naturally."
+  },
+  {
+    "id": "LG-071",
+    "source_language": "en",
+    "target_language": "hi",
+    "source_text": "Please enter your One-Time Password (OTP) received on your registered mobile number.",
+    "reference": "कृपया अपने पंजीकृत मोबाइल नंबर पर प्राप्त वन-टाइम पासवर्ड (ओटीपी) दर्ज करें।",
+    "category": "technology",
+    "difficulty": "easy",
+    "cultural_context": "Standard authentication UI string in Indian fintech apps."
+  },
+  {
+    "id": "LG-072",
+    "source_language": "en",
+    "target_language": "hi",
+    "source_text": "Every cloud has a silver lining.",
+    "reference": "हर निराशा के पीछे आशा की किरण होती है।",
+    "category": "idioms",
+    "difficulty": "medium",
+    "cultural_context": "Idiomatic translation conveying optimism without cloud/silver weather literalism."
+  },
+  {
+    "id": "LG-073",
+    "source_language": "hi",
+    "target_language": "en",
+    "source_text": "आपसे मिलकर बड़ी खुशी हुई, फिर कभी फुरसत में बैठेंगे।",
+    "reference": "It was wonderful meeting you, let's catch up at leisure sometime.",
+    "category": "everyday conversation",
+    "difficulty": "medium",
+    "cultural_context": "'फुरसत में बैठना' captures the relaxed social catchup tradition in North India."
+  },
+  {
+    "id": "LG-074",
+    "source_language": "en",
+    "target_language": "hinglish",
+    "source_text": "Let's binge-watch that new web series tonight.",
+    "reference": "Aaj raat ko woh nayi web series binge-watch karte hain.",
+    "category": "entertainment",
+    "difficulty": "easy",
+    "cultural_context": "OTT streaming slang adopted across urban Indian youth."
+  },
+  {
+    "id": "LG-075",
+    "source_language": "en",
+    "target_language": "hi",
+    "source_text": "The doctor advised him to avoid oily food and take rest for a week.",
+    "reference": "चिकित्सक ने उन्हें तैलीय भोजन से परहेज करने और एक सप्ताह विश्राम करने की सलाह दी।",
+    "category": "healthcare",
+    "difficulty": "medium",
+    "cultural_context": "Dietary caution phrasing ('परहेज करना' / 'तैलीय भोजन')."
+  },
+  {
+    "id": "LG-076",
+    "source_language": "en",
+    "target_language": "hi",
+    "source_text": "Look before you leap.",
+    "reference": "बिना विचारे जो करे, सो पाछे पछताय।",
+    "category": "idioms",
+    "difficulty": "hard",
+    "cultural_context": "Classical Kabir couplet idiom parallel ('बिना विचारे जो करे')."
+  },
+  {
+    "id": "LG-077",
+    "source_language": "hi",
+    "target_language": "en",
+    "source_text": "उसने मेरी नाक में दम कर रखा है।",
+    "reference": "He has been driving me up the wall.",
+    "category": "idioms",
+    "difficulty": "medium",
+    "cultural_context": "'नाक में दम करना' (suffocating the nose) means annoying/harassing incessantly."
+  },
+  {
+    "id": "LG-078",
+    "source_language": "en",
+    "target_language": "hinglish",
+    "source_text": "Are you ready? The cab will reach your location in 2 minutes.",
+    "reference": "Ready ho gaye kya? Cab 2 minute mein tumhari location pe aa jayegi.",
+    "category": "travel",
+    "difficulty": "easy",
+    "cultural_context": "Daily ride hailing conversational query."
+  },
+  {
+    "id": "LG-079",
+    "source_language": "en",
+    "target_language": "hi",
+    "source_text": "Please keep silence inside the library premises.",
+    "reference": "कृपया पुस्तकालय परिसर में शांति बनाए रखें।",
+    "category": "education",
+    "difficulty": "easy",
+    "cultural_context": "Institutional signage standard Hindi."
+  },
+  {
+    "id": "LG-080",
+    "source_language": "en",
+    "target_language": "hi",
+    "source_text": "Strike while the iron is hot.",
+    "reference": "लोहा गर्म है, हथौड़ा मार दो।",
+    "category": "idioms",
+    "difficulty": "medium",
+    "cultural_context": "Direct proverb translation preserved in Hindi folklore."
+  },
+  {
+    "id": "LG-081",
+    "source_language": "hi",
+    "target_language": "en",
+    "source_text": "अरे भाई, थोड़ा एडजस्ट कर लो, जगह कम है।",
+    "reference": "Hey buddy, please adjust a little, space is tight.",
+    "category": "cultural references",
+    "difficulty": "medium",
+    "cultural_context": "The classic Indian public transit / shared seat 'adjust' philosophy."
+  },
+  {
+    "id": "LG-082",
+    "source_language": "en",
+    "target_language": "hinglish",
+    "source_text": "The biryani at that place is next level, we must go there this Sunday.",
+    "reference": "Us jagah ki biryani ekdum next level hai, is Sunday chalte hain.",
+    "category": "food",
+    "difficulty": "medium",
+    "cultural_context": "Foodie enthusiasm using 'ekdum next level' in conversational Hinglish."
+  },
+  {
+    "id": "LG-083",
+    "source_language": "en",
+    "target_language": "hi",
+    "source_text": "The Supreme Court dismissed the petition citing lack of evidence.",
+    "reference": "सर्वोच्च न्यायालय ने साक्ष्यों के अभाव का हवाला देते हुए याचिका खारिज कर दी।",
+    "category": "formal communication",
+    "difficulty": "hard",
+    "cultural_context": "Formal Indian jurisprudence terminology (सर्वोच्च न्यायालय, साक्ष्यों के अभाव, याचिका खारिज)."
+  },
+  {
+    "id": "LG-084",
+    "source_language": "en",
+    "target_language": "hi",
+    "source_text": "When in Rome, do as the Romans do.",
+    "reference": "जैसा देश, वैसा भेष।",
+    "category": "idioms",
+    "difficulty": "medium",
+    "cultural_context": "Rhyming cultural maxim equivalence: 'जैसा देश, वैसा भेष'."
+  },
+  {
+    "id": "LG-085",
+    "source_language": "hi",
+    "target_language": "en",
+    "source_text": "भगवान के घर देर है, अंधेर नहीं।",
+    "reference": "God's mills grind slow, but sure.",
+    "category": "cultural references",
+    "difficulty": "hard",
+    "cultural_context": "Deep spiritual reassurance of divine cosmic justice in Indian culture."
+  },
+  {
+    "id": "LG-086",
+    "source_language": "en",
+    "target_language": "hinglish",
+    "source_text": "Bro, my laptop crashed right before saving the Excel sheet.",
+    "reference": "Bhai, Excel sheet save karne se theek pehle laptop crash ho gaya.",
+    "category": "technology",
+    "difficulty": "easy",
+    "cultural_context": "Workplace tech mishap narrative in Hinglish."
+  },
+  {
+    "id": "LG-087",
+    "source_language": "en",
+    "target_language": "hi",
+    "source_text": "The festival of Holi is celebrated with colors, sweets, and joy across India.",
+    "reference": "भारत भर में होली का त्योहार रंगों, मिठाइयों और उल्लास के साथ मनाया जाता है।",
+    "category": "festivals",
+    "difficulty": "easy",
+    "cultural_context": "Descriptive cultural text for India's festival of spring."
+  },
+  {
+    "id": "LG-088",
+    "source_language": "en",
+    "target_language": "hi",
+    "source_text": "All that glitters is not gold.",
+    "reference": "हर चमकने वाली चीज़ सोना नहीं होती।",
+    "category": "idioms",
+    "difficulty": "easy",
+    "cultural_context": "Direct universally accepted Hindi translation."
+  },
+  {
+    "id": "LG-089",
+    "source_language": "hi",
+    "target_language": "en",
+    "source_text": "चिराग तले अंधेरा होता है।",
+    "reference": "The darkest place is under the candlestick.",
+    "category": "idioms",
+    "difficulty": "hard",
+    "cultural_context": "'चिराग तले अंधेरा' implies that hypocrisy or ignorance often exists right beside knowledge or virtue."
+  },
+  {
+    "id": "LG-090",
+    "source_language": "en",
+    "target_language": "hinglish",
+    "source_text": "Don't take tension, we will figure it out step by step.",
+    "reference": "Tension mat lo, hum step by step figure out kar lenge.",
+    "category": "everyday conversation",
+    "difficulty": "easy",
+    "cultural_context": "Comforting conversational tone blending English idioms with Hindi auxiliaries."
+  },
+  {
+    "id": "LG-091",
+    "source_language": "en",
+    "target_language": "hi",
+    "source_text": "Customers can avail a 10% discount using UPI payments.",
+    "reference": "ग्राहक यूपीआई (UPI) भुगतान का उपयोग करके 10% छूट प्राप्त कर सकते हैं।",
+    "category": "business",
+    "difficulty": "easy",
+    "cultural_context": "UPI payment ecosystem nomenclature ubiquitous in India."
+  },
+  {
+    "id": "LG-092",
+    "source_language": "en",
+    "target_language": "hi",
+    "source_text": "Too many cooks spoil the broth.",
+    "reference": "बहुत सारे जोगी, मठ उजाड़।",
+    "category": "idioms",
+    "difficulty": "hard",
+    "cultural_context": "Indian cultural parallel: 'बहुत सारे जोगी, मठ उजाड़' (too many monks ruin the monastery)."
+  },
+  {
+    "id": "LG-093",
+    "source_language": "hi",
+    "target_language": "en",
+    "source_text": "अरे यार, वह तो छोटी-छोटी बातों पर तिल का ताड़ बना देता है।",
+    "reference": "Man, he makes a huge fuss over the tiniest little things.",
+    "category": "idioms",
+    "difficulty": "medium",
+    "cultural_context": "'तिल का ताड़ बनाना' (turning a sesame seed into a palm tree) equals exaggerating immensely."
+  },
+  {
+    "id": "LG-094",
+    "source_language": "en",
+    "target_language": "hinglish",
+    "source_text": "I will share the meeting minutes on Slack by end of day.",
+    "reference": "Main EOD tak Slack pe meeting minutes share kar doonga.",
+    "category": "professional communication",
+    "difficulty": "easy",
+    "cultural_context": "Corporate abbreviations (EOD, Slack, meeting minutes) woven into Hindi verb endings."
+  },
+  {
+    "id": "LG-095",
+    "source_language": "en",
+    "target_language": "hi",
+    "source_text": "Farmers across Punjab and Haryana celebrate Baisakhi as the harvest festival.",
+    "reference": "पंजाब और हरियाणा के किसान बैसाखी को फसल कटाई के उत्सव के रूप में मनाते हैं।",
+    "category": "festivals",
+    "difficulty": "medium",
+    "cultural_context": "Regional agrarian festival traditions."
+  },
+  {
+    "id": "LG-096",
+    "source_language": "en",
+    "target_language": "hi",
+    "source_text": "Rome was not built in a day.",
+    "reference": "हथेली पर सरसों नहीं जमती।",
+    "category": "idioms",
+    "difficulty": "hard",
+    "cultural_context": "Classical Hindi agrarian proverb: 'हथेली पर सरसों नहीं जमती' (mustard doesn't sprout on palm overnight)."
+  },
+  {
+    "id": "LG-097",
+    "source_language": "hi",
+    "target_language": "en",
+    "source_text": "चलो, चाय पर चर्चा करते हैं।",
+    "reference": "Come, let us discuss this over a cup of tea.",
+    "category": "cultural references",
+    "difficulty": "easy",
+    "cultural_context": "'चाय पर चर्चा' (discussion over tea) is an iconic social and political cultural motif in modern India."
+  },
+  {
+    "id": "LG-098",
+    "source_language": "en",
+    "target_language": "hinglish",
+    "source_text": "I am stuck in traffic, will reach the cafe in 20 minutes.",
+    "reference": "Main traffic mein phansa hoon, 20 minute mein cafe pahunch jaunga.",
+    "category": "travel",
+    "difficulty": "easy",
+    "cultural_context": "Everyday commute update in Hinglish."
+  },
+  {
+    "id": "LG-099",
+    "source_language": "en",
+    "target_language": "hi",
+    "source_text": "Please provide your Aadhaar card number for KYC verification.",
+    "reference": "कृपया केवाईसी (KYC) सत्यापन के लिए अपना आधार कार्ड नंबर प्रदान करें।",
+    "category": "customer support",
+    "difficulty": "medium",
+    "cultural_context": "India-specific identity document (Aadhaar) and KYC verification terminology."
+  },
+  {
+    "id": "LG-100",
+    "source_language": "en",
+    "target_language": "hi",
+    "source_text": "A stitch in time saves nine.",
+    "reference": "समय पर किया गया छोटा उपाय बड़ी मुसीबत से बचाता है।",
+    "category": "idioms",
+    "difficulty": "medium",
+    "cultural_context": "Timely preventive intervention proverb translated with cultural clarity."
+  },
+  {
+    "id": "LG-101",
+    "source_language": "hi",
+    "target_language": "en",
+    "source_text": "वह तो अपने मुंह मियां मिट्ठू बनता है।",
+    "reference": "He is always singing his own praises.",
+    "category": "idioms",
+    "difficulty": "hard",
+    "cultural_context": "'अपने मुंह मियां मिट्ठू बनना' (calling oneself a parrot) describes self-adulation and bragging."
+  },
+  {
+    "id": "LG-102",
+    "source_language": "en",
+    "target_language": "hinglish",
+    "source_text": "Can you please send me the location on Google Maps?",
+    "reference": "Please mujhe Google Maps pe live location send kar do na?",
+    "category": "everyday conversation",
+    "difficulty": "easy",
+    "cultural_context": "Urban conversational plea with 'na' question particle and digital map sharing."
+  },
+  {
+    "id": "LG-103",
+    "source_language": "en",
+    "target_language": "hi",
+    "source_text": "The Reserve Bank of India has announced a 25 basis points cut in the repo rate.",
+    "reference": "भारतीय रिज़र्व बैंक ने रेपो दर में 25 आधार अंकों की कटौती की घोषणा की है।",
+    "category": "business",
+    "difficulty": "hard",
+    "cultural_context": "Monetary policy terminology (भारतीय रिज़र्व बैंक, आधार अंक, रेपो दर)."
+  },
+  {
+    "id": "LG-104",
+    "source_language": "en",
+    "target_language": "hinglish",
+    "source_text": "Bro, that new comedy series on Netflix is full paisa vasool!",
+    "reference": "Bhai Netflix ki nayi comedy series poori paisa vasool hai!",
+    "category": "humor",
+    "difficulty": "medium",
+    "cultural_context": "'Paisa vasool' (complete value for money) is quintessential Indian entertainment appreciation."
+  },
+  {
+    "id": "LG-105",
+    "source_language": "hi",
+    "target_language": "en",
+    "source_text": "सबका साथ, सबका विकास ही हमारा संकल्प है।",
+    "reference": "Together with all, development for all is our solemn commitment.",
+    "category": "formal communication",
+    "difficulty": "medium",
+    "cultural_context": "Prominent contemporary Indian governance and public policy motto."
+  }
+]
